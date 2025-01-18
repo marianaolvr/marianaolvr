@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a software engineer currently contributing to building Latin America's largest and leading real estate ecosystem at [Loft](https://loft.com.br/).
+
 <!--
 **marianaolvr/marianaolvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
